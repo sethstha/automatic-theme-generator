@@ -1,0 +1,30 @@
+{
+  "name": "automatic-theme-generator",
+  "version": "1.0.0",
+  "description": "WordPress theme generator from _s",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethstha/automatic-theme-generator.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme-generator",
+    "generator"
+  ],
+  "author": "Sanjeev Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethstha/automatic-theme-generator/issues"
+  },
+  "homepage": "https://github.com/sethstha/automatic-theme-generator#readme",
+  "devDependencies": {
+    "eslint-config-node": "^3.0.0",
+    "fs-extra": "^6.0.1",
+    "replace-in-files": "^1.1.1",
+    "simple-git": "^1.96.0"
+  }
+}
